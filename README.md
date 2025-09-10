@@ -1,43 +1,40 @@
-# 👋 Hi, I’m **@aadikushwaha** — Aspiring MERN Stack Developer & Full-Stack Intern at Ypsilon IT Solutions
+# 👋 Hi, I’m Aditya Kushwaha (@aadikushwaha)
 
-I’m a **Web Developer** passionate about building scalable, full-stack web applications. Currently diving deep into the **MERN stack** (MongoDB, Express, React, Node.js), I’m also gaining hands-on experience as a **Full Stack Developer Intern** at **Ypsilon IT Solutions**.
+🚀 **MERN Stack Developer** | **Full-Stack Intern @ Ypsilon IT Solutions**
 
-## 🚀 What I Do:
-- **Building and optimizing full-stack web applications** using the **MERN stack**.
-- **Designing interactive UIs** with **React** and **state management** libraries like **Redux**.
-- **Developing backend applications** with **Node.js**, **Express**, and integrating them with **MongoDB**.
-- **Collaborating with the team at Ypsilon IT Solutions** to solve real-world business problems.
+I’m passionate about building **scalable full-stack applications** using the **MERN stack** (MongoDB, Express, React, Node.js). Currently, I’m working on real-world projects at **Ypsilon IT Solutions** while sharpening my expertise in **React, Node.js, and scalable backend systems**.
 
-## 🌱 Currently Learning:
-- Advanced **React** concepts (hooks, context API, and performance optimization).
-- **Node.js & Express** for building scalable and high-performance backends.
-- **MongoDB**: Mastering database design and efficient data handling in full-stack applications.
-- **Authentication**: Implementing secure user authentication and authorization with **JWT** and **OAuth**.
+---
 
-## 💡 Key Skills:
-- **Frontend**: HTML, CSS, JavaScript (ES6+), React, Redux, Context API
-- **Backend**: Node.js, Express, REST APIs, MongoDB
-- **Version Control**: Git, GitHub
-- **Deployment**: Docker, AWS, Heroku
+## 🔧 Tech Stack & Skills
+- **Frontend:** React, Redux, JavaScript (ES6+), HTML, CSS
+- **Backend:** Node.js, Express, REST APIs, MongoDB
+- **DevOps & Tools:** Git/GitHub, Docker, AWS, Postman, Heroku
+- **Other Skills:** Authentication (JWT, OAuth), State Management, API Integration
 
-## 🔧 Tools I'm Using:
-- **VS Code**: My go-to code editor.
-- **Postman**: For API testing and backend validation.
-- **GitHub**: For version control and collaboration on open-source projects.
+---
 
-## 💬 Let’s Collaborate:
-I’m eager to **collaborate on MERN stack projects**, contribute to **open-source**, or work on **full-stack development challenges**. Whether you’re looking for a coding partner or need help on a project, feel free to reach out!
+## 📌 Featured Projects
+🌐 [Portfolio Website](https://portfolioaditya-psi.vercel.app/) — Personal portfolio built with React & Tailwind.  
 
-## 📫 How to Reach Me:
-- ✉️ **Email**: [adityakushwah9477@gmail.com](mailto:adityakushwah9477@gmail.com)
-- 🌐 **LinkedIn**: [Aditya Kushwaha](https://www.linkedin.com/in/aditya-kushwaha-77261b1b7)
-- 🌍 **Portfolio**: [aadikushwaha.com](https://aadikushwaha.com)
+🛒 **E-Commerce Application** — A full-stack MERN e-commerce app with product listings, cart management, and secure checkout. *(Live soon / link to repo if available)*  
 
-## 🎯 I’m Looking For:
-- **Opportunities to apply my MERN stack skills** in real-world projects.
-- **Collaborations** on MERN stack applications and full-stack web development.
-- **Mentorship** to accelerate my growth as a full-stack developer.
+👨‍⚕️ **Prescripto – Doctor’s Appointment Booking** *(In Progress)* — Building a MERN-based platform for scheduling doctor appointments with authentication, appointment management, and responsive UI.  
 
-## 😄 Pronouns: He/Him
+---
 
-## ⚡ Fun Fact: I’m always looking for new ways to **optimize code**—whether it's simplifying logic or making apps faster! 🚀
+## 🌱 Currently Exploring
+- Advanced React concepts (hooks, context, performance optimization)
+- Secure authentication & authorization (JWT, OAuth)
+- Scalable backend systems with Node.js & Express
+
+---
+
+## 📫 Connect With Me
+- ✉️ Email: [adityakushwah9477@gmail.com](mailto:adityakushwah9477@gmail.com)  
+- 💼 LinkedIn: [Aditya Kushwaha](https://www.linkedin.com/in/adityakushwaha9477)  
+- 🌍 Portfolio: [aadikushwaha.com](https://aadikushwaha.com)  
+
+---
+
+⚡ **Fun Fact:** I love optimizing code—sometimes shaving off just a few milliseconds makes me way too happy! 😄
